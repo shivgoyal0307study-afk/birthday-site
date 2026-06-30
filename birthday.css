@@ -35,7 +35,7 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid #EFB0C9;
     border-radius: 15px;
-    background-image: url("./square-gift-box.webp");
+    background-image: url("./birthday-images/square-gift-box.webp");
     background-size: cover;
     margin: 0 auto;
 }
@@ -59,24 +59,24 @@ h1, h2, h3, h4, p {
 }
 
 #kitty:hover {
-    background-image: url("./surprise.jpg");
+    background-image: url("./birthday-images/surprise.jpg");
 }
 
 #hearts:hover {
-    background-image: url("./hearts.gif");
+    background-image: url("./birthday-images/hearts.gif");
 }
 
 #moon:hover {
-    background-image: url("./moon.gif");
+    background-image: url("./birthday-images/moon.gif");
 }
 
 #badass:hover {
-    background-image: url("./badass.gif");
+    background-image: url("./birthday-images/badass.gif");
     background-position: center;
 }
 
 #cheers:hover {
-    background-image: url("./trump.gif");
+    background-image: url("./birthday-images/trump.gif");
 }
 
 #footer {
